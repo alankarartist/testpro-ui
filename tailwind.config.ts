@@ -11,6 +11,8 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        customPurple: "#482cc7",
+        customLavender: "#ccc7ef",
       },
     },
   },
